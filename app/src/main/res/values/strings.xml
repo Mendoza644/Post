@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="to_do">to_do</string>
+    <string name="enter_a_note">Enter a note...</string>
+</resources>
